@@ -1,4 +1,5 @@
-#
+#Accepts a list of options
+#returns a string of #ed menu options.
 def createMenu(optionList):
   tmp = ' '
   ct = 0
